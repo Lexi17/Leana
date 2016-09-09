@@ -1,2 +1,0 @@
-# Leana
-Homework
