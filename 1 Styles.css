@@ -1,0 +1,122 @@
+section{
+width: 670px;
+border width: 5px;
+margin:20px;
+padding:20px;
+height:300px;
+display:block;
+}
+section{
+border-top: 8px dotted yellow;
+border-left: 8px dashed red;
+border-right: 15px solid green;
+border-bottom:11px double #6600ff;
+box-shadow: 20px 20px 15px #404040;
+font-family: "Open sans", sans-serif;
+}
+h1{
+font-weight: normal;
+font-size: 40px;
+font-family: "Open sans", sans-serif;
+text-align: center;
+text-shadow: 5px 12px 10px #cccccc;
+margin-top: 5px;
+}
+label{
+width:85%;
+border: 2px solid red;
+box-shadow:
+0 0 0 1px #FFD700,
+0 0 0 3px #ffff00,
+0 0 0 5px	#008000,
+0 0 0 7px #483D8B;
+margin-top: 20px;
+margin-left: 50px;
+padding-top: 10px;
+border-radius: 80px;
+display: inline-table;
+text-align: center;
+box-sizing: border-box;
+}
+p{
+font-size: 20px;
+text-shadow: 10px 20px 10px #cccccc;
+}
+span{
+display: inline-block;
+}
+span.Box1{
+border:1px outset;
+background-color: #F8CA14;
+width: 170px;
+font-weight: bolder;
+text-align: center;
+height: 25px;
+margin-top: 20px;
+margin-bottom: 9px;
+padding-left: 20px;
+}
+span.Box2{
+border:1px outset;
+background-color: #F8CA14;
+width: 170px;
+font-weight: bolder;
+text-align: center;
+height: 25px;
+margin-top: 20px;
+margin-bottom: 9px;
+padding-left: 20px;
+}
+#cool{
+border:1px grey;
+box-sizing: border-box;
+background-color: rgba(191, 198, 205,0.8);
+height: 90px;
+float: right;
+width: 155px;
+border-radius: 90px;
+padding: 20px;
+position: absolute;
+top: 60px;
+left: 690px;
+font-size: 20px;
+text-align: center;
+}
+div #cool{
+box-sizing: border-box;
+display: inline-block;
+color: white;
+font-weight: bold;
+border: 5px dashed white;
+border-radius: 100px;
+padding-top: 10px;
+}
+.cool-big{
+background-color: rgba(191, 198, 205,0.8);
+height: 50px;
+width: 50px;
+border-radius: 50%;
+position: absolute;
+top: 140px;
+left: 600px;
+box-sizing: border-box;
+}
+.cool-small{
+background-color: rgba(191, 198, 205,0.8);
+height: 35px;
+width: 35px;
+border-radius: 50%;
+position: absolute;
+top: 213px;
+left: 553px;
+box-sizing: border-box;
+}
+div .cool-big{
+  box-sizing: border-box;
+  display: inline-block;
+  color: white;
+  font-weight: bold;
+  border: 5px dashed white;
+  border-radius: 100px;
+  padding-top: 10px;
+  }
